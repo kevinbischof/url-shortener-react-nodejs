@@ -50,6 +50,8 @@ Return:
 }
 ```
 
+The backend will automatically create a short url with numbers and letters.
+
 ### Update
 
 PUT http://localhost:3000/urls/:id

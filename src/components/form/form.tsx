@@ -44,6 +44,7 @@ export default function Form({ setError }: FormProps): React.ReactElement {
               type="text"
               onChange={formik.handleChange}
               value={formik.values.url}
+              required
             />
           </div>
           <div>

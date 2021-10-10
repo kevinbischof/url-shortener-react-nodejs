@@ -1,7 +1,0 @@
-PUT http://localhost:3000/urls/295
-Content-Type: application/json
-
-{
-  "id": 305,
-  "hitCount": 1337
-}

@@ -1,0 +1,7 @@
+a {
+    color: blueviolet;
+}
+a:hover {
+    color: rgb(98, 23, 168);
+    cursor: pointer;
+}
